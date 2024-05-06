@@ -1,0 +1,4 @@
+pyfiglet==1.0.2
+simple-chalk==0.1.0
+requests==2.31.0
+python-decouple==3.8
